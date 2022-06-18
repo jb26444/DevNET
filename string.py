@@ -33,3 +33,5 @@ print(" ".join(a.upper())) # joing and all in upper case style.
 
 
 
+
+
