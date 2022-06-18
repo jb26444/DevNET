@@ -1,6 +1,5 @@
 #https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3
 
-
 a = "hello Python"
 
 #Print a string
